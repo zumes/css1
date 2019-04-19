@@ -1,0 +1,39 @@
+ div.pri {
+width: 30%;
+background: grey;
+display: inline-block;
+border: 3% solid;
+padding-left: 1%;
+
+}
+ 
+ .titulo{
+ 	 border-bottom:  3% solid;
+  border-left:  3% solid;
+ 	width: 45%;
+ 	background:#D377D0;
+ 	 float: right;
+
+
+}
+.titulo2{
+	 border-bottom:  3% solid;
+  border-left:  3% solid;
+ 	width: 45%;
+ 	background:#E9626E;
+ 	
+ 	 float: right;
+
+
+}
+.titulo3{
+	 border-bottom:  3% solid;
+  border-left:  3% solid;
+ 	width: 45%;
+ 	background:#D7E186;
+ 	
+ 	 float: right;
+
+
+}
+
